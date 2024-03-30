@@ -1,7 +1,13 @@
-Plugins:
-  Zenject
-Capabilities:
-  Display bar status
-  Change desktop wallpaper
-Platform:
-  Android
+<b>Plugins:</b>
+  
+• Zenject
+
+<b>Capabilities:</b>
+  
+• Display bar status
+  
+• Change desktop wallpaper
+
+<b>Platform:</b>
+  
+Android
