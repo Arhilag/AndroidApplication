@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 443660311d437449fa1a39176aed5abf, type: 3}
+  m_Name: InfoConfig
+  m_EditorClassIdentifier: 
+  _infoData:
+  - Text: One of the most famous expressions that came to us from ancient times is
+      "bread and circuses!..."The original meaning of the phrase used by the Roman
+      satirical poet Juvenal has changed somewhat, but remains relevant to this day.
+      Many centuries ago, some Roman statesmen seized power by bribing the people
+      with circus performances and food distributions. What did people do for fun
+      in ancient times? After all, it was impossible to fill your whole day exclusively
+      with feasts, visits to theaters, gladiatorial arenas and debates on the agora.
+      Even such entertainment was available to a small stratum of wealthy citizens.
+    Image: {fileID: 21300000, guid: 2c8407d3abb5848a68b4f7c1232d6489, type: 3}
+  - Text: 'As archaeologists have found out, gambling was popular in ancient times.
+      During the investigation of the excavations of one of the ancient settlements
+      on the territory of the Kerch Peninsula, Bosporan playing chips were found.
+      The ancient Greek poet Ovid left references to gambling in his works: "We forget
+      ourselves during the game, we open up in passion. Everything in our hearts
+      stands out in the palm of your hand, come in." Such games were available to
+      different segments of the population. As proof, scientists demonstrate unique
+      finds that are stored in the funds of the Kerch Nature Reserve: playing stones,
+      dice, chips.'
+    Image: {fileID: 21300000, guid: 449abe7b985fb4f2887ab65ccb89d5ec, type: 3}
+  - Text: "A cube is an object used for the game of dice, one of the most popular
+      since ancient times. The principle of the game is very simple, based on throwing
+      dice with numeric symbols on the sides. Count the number of points on the upper
+      edges and determine the winner of the circle by the number of points scored.
+      At first, the dice were thrown simply with their hands, later they began to
+      use a turricula \u2014 a special cup in which the cubes were mixed. Bones were
+      made of various materials from simple bone to gold and various minerals. The
+      very name \"dice\" indicates what the first dice were originally made of."
+    Image: {fileID: 21300000, guid: 08cdd34dbeb4a407db6e096d2c902dc0, type: 3}
+  - Text: Dice are found quite often on the territory of the ancient settlements
+      of the Bosporus. There are cubes even in burials, obviously even in the afterlife
+      the Bosporans planned to play dice. In addition to cubes, archaeologists find
+      tokens made of clay, stone, bone or metal. This is another gambling board game.
+      Its roots go back to ancient times, chips were found in the Egyptian pyramids,
+      the oldest finds date back to 2500 BC. The Greeks believed that this entertainment
+      was invented by Palamedes during the ten-year siege of Troy.
+    Image: {fileID: 21300000, guid: 837a95485a9a24247959b1e4c0557b65, type: 3}
+  - Text: The antique board game is very similar to modern checkers. The chips were
+      placed on a board divided into colored squares. To win, it was necessary to
+      surround the opponent's chips, bring him to the state of "fixed stones". Wealthy
+      citizens could afford to purchase personal playing boards, while commoners
+      used instead a grid drawn on the ground or a clay potsherd.
+    Image: {fileID: 0}
